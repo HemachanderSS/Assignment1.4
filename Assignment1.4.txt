@@ -1,0 +1,36 @@
+1.Characteristics of Big data:
+	*Volume:
+		It denotes size of the data which determines the value and potential of the
+data under consideration and whether it can actually be considered as Big Data or not.
+	*Variety:
+		It helps the people, who are closely analyzing the data and are associated
+with it,to effectively use the data to their advantage and thus upholding the importance of 
+the Bigdata.
+	*Velocity:
+		It refers to the speed of generation of data (i.e) how fast the particular 
+data is generated and processed to meet the demands and the challenges which lie ahead in the path 
+of growth and development.
+	*variability:
+		It refers to the inconsistency which can be shown by the data at times,thus
+hampering the process of being able to handle and manage the data effectively.
+	*Complexity:
+		It is difficult to manage the data when it comes from various sources.Thus 
+data need to be linked,connected and correlated in order to be able to grasp the information
+that is supposed to be conveyed by these data.
+
+
+2.Solutions to handle Big data:
+   	The number of tools that have been developed to handle bigdata are
+	*Hadoop
+	*Spark
+	*Oracle
+	*Gfs
+	
+
+3.Difference between scale-out and scale-up:
+	*Scale-up:
+		When there is a shortage of resources in a particular system at that time adding
+an additional resources to that system is called as scale up.
+	*Scale-out:
+		The process of splitting up the task with multiple system in order to increase
+the peformance speed is called as scale out.
